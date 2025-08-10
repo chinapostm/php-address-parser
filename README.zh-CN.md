@@ -36,7 +36,7 @@
 使用 Composer 安装：
 
 ```bash
-composer require hejunjie/address-parser
+composer require chinapostm/address-parser
 ```
 
 ## 🧠 使用示例

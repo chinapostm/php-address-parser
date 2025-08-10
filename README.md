@@ -36,7 +36,7 @@ Batch queries are supported.
 Install via Composer:
 
 ```bash
-composer require hejunjie/address-parser
+composer require chinapostm/address-parser
 ```
 
 ## 🧠 Usage Example
